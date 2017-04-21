@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "phillipcurl",
+    "githubRepoName": "ngx-contentful",
+    "npmModuleName": "ngx-contentful",
+    "moduleGlobal": "ngxContentful",
+    "ngModuleName": "NgxContentfulModule",
+    "selectorPrefix": "contentful",
+    "projectTitle": "ngx-contentful",
+    "projectDescription": "",
+    "authorName": "Phillip Curl"
+  }
+}
